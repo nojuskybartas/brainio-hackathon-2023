@@ -1,0 +1,8 @@
+a,
+button {
+    pointer-events: none;
+    cursor: default;
+    opacity: 0.2;
+    color: red;
+    /* display: hidden; */
+}
